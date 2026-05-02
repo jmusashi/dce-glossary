@@ -1,4 +1,4 @@
-DCE Glossary v1.0
+📘 DCE Glossary v1.0
 Decision Continuity Engineering — Canonical Definitions
 
 A
@@ -77,3 +77,6 @@ The expected duration over which a decision remains valid before requiring re‑
 T
 Traceability Requirement
 The rule that all decision changes must be documented and linked to their originating capsule.
+
+⭐ END OF GLOSSARY v1.0
+This is the canonical version.
